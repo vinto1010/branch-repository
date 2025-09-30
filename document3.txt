@@ -1,1 +1,1 @@
-this is document3 sample file for branch practice
+파일3이 메인 브랜치에서 변경되었습니다.
